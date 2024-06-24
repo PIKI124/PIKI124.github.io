@@ -105,7 +105,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
-    layout: text
+    layout: hi! im an artist starting my art jorney! i hope you can help me imrove as much as i try to help you
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
